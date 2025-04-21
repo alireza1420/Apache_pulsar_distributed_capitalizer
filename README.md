@@ -101,9 +101,12 @@ python3 producer.py
 
 ---
 
-## 📂 Example File: `test_set.txt`
-This should contain a paragraph of ~100 words you want to process through the system.
-
+## 📂 Example File: ``
+You can use  
+```bash
+curl https://www.gutenberg.org/files/1342/1342-0.txt -o "pride_and_prejudice.txt"
+```
+This should contain the pride and prejudice book you want to process through the system.
 ---
 
 Happy Streaming! 🌊
