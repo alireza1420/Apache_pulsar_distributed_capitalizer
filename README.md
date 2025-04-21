@@ -35,6 +35,7 @@ bin/pulsar-admin topics create-partitioned-topic persistent://demo-tenant/demo-n
 bin/pulsar-admin topics create-partitioned-topic persistent://demo-tenant/demo-ns/split-topic --partitions 4
 bin/pulsar-admin topics create-partitioned-topic persistent://demo-tenant/demo-ns/merge-topic --partitions 4
 ```
+![tenatns](https://github.com/user-attachments/assets/b682d5cd-99b7-4866-b914-362db38668e1)
 
 ---
 
