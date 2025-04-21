@@ -26,7 +26,7 @@ try:
 
     # Final merged sentence
     final_sentence = " ".join(result)
-    print("\n✅ Final Merged Sentence:\n")
+    print("\n Final Merged Sentence:\n")
     print(final_sentence)
 
 except Exception as e:
