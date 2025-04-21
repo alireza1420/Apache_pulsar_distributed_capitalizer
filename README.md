@@ -62,6 +62,7 @@ bin/pulsar-admin topics create-partitioned-topic persistent://demo-tenant/demo-n
 - Joins words into a full sentence and prints the result
 
 ---
+![arch_task4](https://github.com/user-attachments/assets/c02304a5-c866-4427-aec0-1483708e8b83)
 
 ## ✅ Running the Pipeline (IN ORDER)
 
